@@ -32,7 +32,7 @@ skinparam useBetaStyle false
 !$GRAYDARK = "#333333"
 !$PRIMARY = "#446e9b"
 !$SECONDARY = "#999999"
-!$SUCCESS = "#3cb521"
+!$SUCCESS = "#763d2c"
 !$INFO = "#3399f3"
 !$WARNING = "#d47500"
 !$DANGER = "#cd0200"
